@@ -1,8 +1,6 @@
 @article{REPO002,
     author = "Zhang, Qijian and Hou, Junhui and Qian, Yue and Zeng, Yiming and Zhang, Juyong and He, Ying",
     address = "USA",
-    doi = "10.1109/TPAMI.2023.3244828",
-    issn = "0162-8828",
     issue_date = "Aug. 2023",
     journal = "IEEE Trans. Pattern Anal. Mach. Intell.",
     month = "August",
@@ -11,7 +9,6 @@
     pages = "9726–9742",
     publisher = "IEEE Computer Society",
     title = "{Flattening-Net: Deep Regular 2D Representation for 3D Point Cloud Analysis}",
-    url = "https://doi.org/10.1109/TPAMI.2023.3244828",
     volume = "45",
     year = "2023"
 }

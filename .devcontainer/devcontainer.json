@@ -1,0 +1,19 @@
+{
+    "name": "python-dl-env-cuda11",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.vscode-pylance",
+                "ms-python.python",
+                "ms-python.debugpy",
+                "christian-kohler.path-intellisense"
+            ]
+        }
+    },
+    "runArgs": [
+        "--gpus=all"
+    ]
+}
